@@ -40,7 +40,8 @@
   "homepage": "https://github.com/danethurber/webpack-manifest-plugin",
   "dependencies": {
     "fs-extra": "^0.30.0",
-    "lodash": ">=3.5 <5"
+    "lodash": ">=3.5 <5",
+    "mutexify": "mafintosh/mutexify#5574dd51e51d5a5783e6a5ec0d5cdd55d2de17dc"
   },
   "nyc": {
     "reporter": [
